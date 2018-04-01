@@ -7,8 +7,10 @@
 public class P6_Scientific {
 
 	public static void main(String[] args) {
-		// REMINDER: Any print statements should only be in the main method
-
+		System.out.print( computeScientificValue( 24.15, 5 ));
 	}
-
+	
+	private static double computeScientificValue(double d, int i) {
+		return 0;
+	}
 }
